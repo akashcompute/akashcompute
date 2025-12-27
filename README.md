@@ -47,6 +47,3 @@ Exploratory Data Analysis on NYC Taxi dataset using Pandas & Matplotlib.
 **Resume:** [Google drive link](https://drive.google.com/file/d/1UoSovloLtLsyDoLfBLmbVKSponmJ4lXe/view?usp=sharing)
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashcompute&hide=Jupyter+Notebook&langs_count=8&layout=compact" />
-</a>
