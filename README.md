@@ -44,6 +44,5 @@ Exploratory Data Analysis on NYC Taxi dataset using Pandas & Matplotlib.
 ## 🌐 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/akash-kumar-747931145  
 **Email:** akashkrcse1@gmail.com  
-**Resume:** [Google drive link](https://drive.google.com/file/d/1UoSovloLtLsyDoLfBLmbVKSponmJ4lXe/view?usp=sharing)
 
 ---
