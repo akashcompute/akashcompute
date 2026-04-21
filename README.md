@@ -2,7 +2,7 @@
 
 **SDET | Python Automation | API & Kafka Testing | CI/CD | AWS | Kubernetes | Generative AI Enthusiast**
 
-I’m a Software Development Engineer in Test with **5.7+ years of experience** designing automation frameworks, validating distributed microservices, and building CI/CD-driven test systems. I work across the full stack of backend testing — from Kafka ETL validation to API automation, synthetic suite development, and cloud-based debugging.
+I’m a Senior Software Development Engineer in Test with **6+ years of experience** designing automation frameworks, validating distributed microservices, and building CI/CD-driven test systems. I work across the full stack of backend testing — from Kafka ETL validation to API automation, synthetic suite development, and cloud-based debugging.
 
 I enjoy solving real engineering problems, reducing manual effort through automation, and building tools that make testing faster and more reliable.
 
